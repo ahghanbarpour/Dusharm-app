@@ -1,0 +1,6 @@
+F:\Dusharm\BusinessEntity\bin\Debug\BusinessEntity.dll
+F:\Dusharm\BusinessEntity\bin\Debug\BusinessEntity.pdb
+F:\Dusharm\BusinessEntity\obj\Debug\BusinessEntity.csproj.CoreCompileInputs.cache
+F:\Dusharm\BusinessEntity\obj\Debug\BusinessEntity.dll
+F:\Dusharm\BusinessEntity\obj\Debug\BusinessEntity.pdb
+F:\Dusharm\BusinessEntity\obj\Debug\BusinessEntity.csproj.AssemblyReference.cache
