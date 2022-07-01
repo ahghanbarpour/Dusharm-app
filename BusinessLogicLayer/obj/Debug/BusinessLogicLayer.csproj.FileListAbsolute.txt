@@ -1,0 +1,14 @@
+F:\Dusharm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\Dusharm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\Dusharm\BusinessLogicLayer\bin\Debug\BusinessEntity.dll
+F:\Dusharm\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Dusharm\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+F:\Dusharm\BusinessLogicLayer\bin\Debug\BusinessEntity.pdb
+F:\Dusharm\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Dusharm\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Dusharm\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+F:\Dusharm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\Dusharm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\Dusharm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+F:\Dusharm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\Dusharm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
