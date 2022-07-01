@@ -1,0 +1,16 @@
+F:\Dusharm\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Dusharm\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Dusharm\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Dusharm\DataAccessLayer\bin\Debug\BusinessEntity.dll
+F:\Dusharm\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\Dusharm\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Dusharm\DataAccessLayer\bin\Debug\BusinessEntity.pdb
+F:\Dusharm\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\Dusharm\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Dusharm\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Dusharm\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Dusharm\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\Dusharm\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Dusharm\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Dusharm\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.jsflhdafh.resources
+F:\Dusharm\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
